@@ -9,3 +9,5 @@ As per acceptance Criteria belwo point were updated in HTML page
     5) updated the title element with website page name.
     6) Search Engine Optimization internal link updated.
     7) Comments were added in HTML page for all the changes.
+
+    updated img element with Figure semantic element
